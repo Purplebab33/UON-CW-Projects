@@ -1,0 +1,92 @@
+food_name,id,Product_details,country_origin,water_use_l,scarcity_weighted_l,supply_chain_weight
+Rice,548,Rice,India,12406.61,27517.99,0.076
+Rice,549,Rice,India,2738.64,37851.22,0.097
+Rice,550,Rice,India,303.9,1163.51,0.11
+Rice,582,Jasmine rice,Thailand,7.73,60.15,0.081
+Rice,589,Rice,Viet Nam,707.58,4568.21,0.11
+Potatoes,615,Potatoes,China,1.68,76.72,0.13
+Potatoes,618,Sweet potatoes,China,93.9,8953.45,0.083
+Potatoes,633,Potatoes,India,2.62,78.32,0.18
+Potatoes,659,Potatoes,Russian Federation,0.96,19.1,0.13
+Potatoes,668,Potatoes,Ukraine,0.89,26.5,0.18
+Cane Sugar,743,Sugar,Brazil,8.14,15.3,0.17
+Cane Sugar,746,Sugar,India,2519.72,34890.79,0.16
+Cane Sugar,747,Sugar,India,3567.12,13739.61,0.14
+Cane Sugar,774,Sugar cane,Brazil,8.14,15.3,0.14
+Cane Sugar,776,Sugar cane,India,1073.31,14899.65,0.16
+Beet Sugar,787,Sugar,Germany,12.1,15.02,0.076
+Beet Sugar,788,Sugar,Germany,12.1,15.02,0.076
+Beet Sugar,793,Sugar,Sweden,12.1,48.7,0.09
+Beet Sugar,795,Sugar beet,France,23.13,119.49,0.25
+Beet Sugar,796,Sugar beet,France,12.1,28.0,0.25
+Peas,880,Peas,France,18.84,156.13,0.051
+Peas,881,Peas,France,23.5,194.79,0.051
+Peas,892,Peas,Portugal,4050.65,302949.74,0.087
+Peas,893,Peas,Spain,1.58,103.0,0.27
+Nuts,913,Almonds,United States of America,6745.79,396604.25,0.12
+Nuts,916,Almonds,United States of America,1823.32,129364.29,0.12
+Nuts,917,Almonds,United States of America,8280.95,302154.13,0.12
+Nuts,918,Almonds,United States of America,9106.93,646134.54,0.12
+Nuts,919,Almonds,United States of America,11383.53,807659.27,0.08
+Groundnuts,922,Peanuts,Argentina,748.49,15394.46,0.2
+Groundnuts,927,Peanuts,China,831.71,37868.44,0.14
+Groundnuts,930,Peanuts,China,880.9,83995.08,0.14
+Groundnuts,931,Peanuts,China,852.46,81282.88,0.14
+Groundnuts,932,Peanuts,India,6524.68,195134.86,0.34
+Tofu,1043,Soybeans,Argentina,6.61,32.44,0.2
+Tofu,1062,Soybeans,Brazil,6.61,12.43,0.17
+Tofu,1063,Soybeans,Brazil,6.61,12.43,0.091
+Tofu,1064,Soybeans,Brazil,6.61,12.43,0.066
+Tofu,1128,Soybeans,United States of America,6.34,60.29,0.11
+Soybean Oil,1136,Soybean oil,Argentina,1.58,7.77,0.18
+Soybean Oil,1139,Soybean oil,Brazil,1.58,2.98,0.24
+Soybean Oil,1163,Soybeans,Brazil,1.58,2.98,0.061
+Soybean Oil,1226,Soybeans,United States of America,1.52,14.44,0.1
+Soybean Oil,1228,Soybeans,United States of America,1.52,14.44,0.09
+Sunflower Oil,1273,Sunflower oil,Spain,6.06,190.99,0.29
+Sunflower Oil,1276,Sunflower seeds,Brazil,2.99,5.63,0.054
+Sunflower Oil,1279,Sunflower seeds,France,2.87,6.64,0.04
+Sunflower Oil,1291,Sunflower seeds,Spain,5.03,231.41,0.29
+Sunflower Oil,1292,Sunflower seeds,Switzerland,2.87,2.36,0.12
+Rapeseed Oil,1302,Rapeseed oil,Germany,7.24,8.99,0.069
+Rapeseed Oil,1340,Winter rapeseed,Germany,1.43,1.78,0.069
+Rapeseed Oil,1343,Rapeseed,Germany,1.43,1.78,0.069
+Rapeseed Oil,1354,Rapeseed,Poland,1.43,2.78,0.087
+Rapeseed Oil,1367,Rapeseed,United Kingdom,1.43,4.49,0.091
+Olive Oil,1373,Extra virgin olive oil,Greece,390.1,31082.73,0.15
+Olive Oil,1374,Extra virgin olive oil,Greece,317.87,24395.66,0.15
+Olive Oil,1382,Virgin olive oil,Portugal,8.51,130.37,0.18
+Olive Oil,1383,Virgin olive oil,Portugal,8.51,130.37,0.14
+Olive Oil,1388,Olives,Greece,6589.34,532468.57,0.15
+Tomatoes,1415,Tomatoes,China,71.1,6733.57,0.22
+Tomatoes,1417,Tomatoes,China,83.35,2949.78,0.09
+Tomatoes,1436,Tomatoes,Morocco,48.3,3399.94,0.11
+Tomatoes,1465,Tomatoes,Turkey,61.14,384.65,0.11
+Tomatoes,1471,Tomatoes,United States of America,140.25,8245.92,0.066
+Other Vegetables,1572,Cucumber,China,83.05,2939.44,0.54
+Other Vegetables,1583,Pumpkins,United States of America,74.91,899.6,0.038
+Other Vegetables,1620,Lettuce,United States of America,247.47,14549.73,0.069
+Other Vegetables,1621,Lettuce,United States of America,390.48,11097.2,0.069
+Other Vegetables,1622,Iceberg lettuce,United States of America,146.68,13926.58,0.069
+Citrus Fruit,1642,Oranges,Iran (Islamic Republic of),139.24,4348.84,0.079
+Citrus Fruit,1660,Oranges,United States of America,69.01,107.42,0.08
+Citrus Fruit,1661,Oranges,United States of America,69.0,107.41,0.08
+Citrus Fruit,1662,Oranges,United States of America,112.25,188.84,0.08
+Apples,1689,Apples,Chile,0.73,59.72,0.081
+Apples,1690,Apples,China,1.72,78.34,0.32
+Apples,1747,Apples,United States of America,267.88,9774.34,0.057
+Apples,1748,Apples,United States of America,0.72,26.4,0.057
+Other Fruit,1900,Canary melon,Brazil,0.34,3.62,0.26
+Other Fruit,1901,Watermelon,Iran (Islamic Republic of),325.97,4973.68,0.16
+Other Fruit,1903,Watermelon,Iran (Islamic Republic of),85.61,2602.4,0.16
+Other Fruit,1904,Melon,Spain,181.0,18050.02,0.17
+Milk,2275,Cow's milk,Brazil,128.96,307.76,0.22
+Milk,2321,Cow's milk,Germany,458.51,18961.17,0.054
+Milk,2322,Cow's milk,Germany,54.15,1529.68,0.054
+Milk,2351,Cow's milk,Mexico,198.82,3245.52,0.35
+Milk,2367,Cow's milk,Peru,982.88,237.5,0.044
+Cheese,2439,Cow's milk,Brazil,1140.0,2725.52,0.22
+Cheese,2483,Cow's milk,Germany,4150.91,172036.15,0.053
+Cheese,2484,Cow's milk,Germany,481.86,13868.1,0.053
+Cheese,2512,Cow's milk,Mexico,1778.26,28989.34,0.35
+Cheese,2528,Cow's milk,Peru,10473.69,2274.44,0.044
